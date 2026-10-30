@@ -1,0 +1,12 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "minSupportedVersionCode": 1,
+  "isMandatory": false,
+  "releaseDate": "",
+  "apkUrl": "",
+  "apkSize": 0,
+  "sha256": "",
+  "packageName": "com.aistudio.applet.hrppwr",
+  "releaseNotes": "No public OTA release has been published yet."
+}
