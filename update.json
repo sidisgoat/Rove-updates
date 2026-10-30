@@ -1,12 +1,12 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 7,
+  "versionName": "1.1.7",
   "minSupportedVersionCode": 1,
   "isMandatory": false,
-  "releaseDate": "",
-  "apkUrl": "",
-  "apkSize": 0,
-  "sha256": "",
+  "releaseDate": "2026-10-30",
+  "apkUrl": "https://github.com/sidisgoat/rove-updates/releases/download/rove-1.1.7-build-7/app-release.apk",
+  "apkSize": 35192798,
+  "sha256": "9b28fd0659cdd5227381d17b325514b6ec557fd0c3e75530b080469581f6eeaa",
   "packageName": "com.aistudio.applet.hrppwr",
-  "releaseNotes": "No public OTA release has been published yet."
+  "releaseNotes": "Automated Rove Android release."
 }
