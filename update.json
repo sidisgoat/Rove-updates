@@ -1,12 +1,12 @@
 {
-  "versionCode": 22,
-  "versionName": "1.1.22",
+  "versionCode": 23,
+  "versionName": "1.1.23",
   "minSupportedVersionCode": 1,
   "isMandatory": false,
   "releaseDate": "2026-10-31",
-  "apkUrl": "https://github.com/sidisgoat/rove-updates/releases/download/rove-1.1.22-build-22/app-release.apk",
-  "apkSize": 35310498,
-  "sha256": "fe0f0ffc4215ebe0816ed144994fa29f7edbf7d2c571b319eb0ca9a5cb35e837",
+  "apkUrl": "https://github.com/sidisgoat/rove-updates/releases/download/rove-1.1.23-build-23/app-release.apk",
+  "apkSize": 35356642,
+  "sha256": "292c7dc8627891a9f50a376649992ec213d1d8f8c16fa96489409276f446b3c0",
   "packageName": "com.aistudio.applet.hrppwr",
   "releaseNotes": "Automated Rove Android release."
 }
